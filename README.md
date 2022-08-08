@@ -1,6 +1,6 @@
 # Projeto HTML e CSS II
 
-![Gif Saint Seiya](https://i.gifer.com/Mv2d.gif)
+![Gif Saint Seiya](https://2img.net/h/25.media.tumblr.com/db67746e1617274cf4c37091ec98439f/tumblr_mjcxvrVpc31s6cql7o1_500.gif)
 
 Esse projeto tem como objetivo aplicar alguns conhecimentos de HTML, CSS e responsividade adiquiridos na aula da semana 4 da Reprograma.
 
